@@ -1,0 +1,4 @@
+student_name = Gian Patrick Tan
+degree_programme = BS Management Engineering
+year_level = 2
+print(f"Hello, I am {student name} from {year_level} {degree_programme}.")
